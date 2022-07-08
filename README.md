@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="" height="175px"/></a> -->
 
-<h1 align="center">Hi, I'm Vedant Gokhale <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"></h1>
+<h1 align="center">Hi, I'm Vedant Gokhale <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="5px" width="5px" ></h1>
 <h3 align="center">I am a Full Stack Web Developer</h3>
 
 <hr>
