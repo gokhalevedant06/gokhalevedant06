@@ -1,33 +1,33 @@
 <!-- <a href="#"><img width="100%" height="auto" src="" height="175px"/></a> -->
 
-<h1 align="center">Hi, I'm Vedant Gokhale <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px" ></h1>
-<h3 align="center">I am a Full Stack Web Developer</h3>
+<h3 align="left">Hi, I'm Vedant Gokhale <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px" ></h1>
+<!-- <h3 align="center">I am a Full Stack Web Developer</h3> -->
 
-<p align="center" >
+<p align="left" >
     <img src="https://user-images.githubusercontent.com/34781875/184046905-9e8e417b-43f5-40d2-a773-22b1b3907ed6.gif" >
 </p>
 
 <hr>
 
-## 🙋‍♂️ About Me
+<!-- ## 🙋‍♂️ About Me -->
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+<!-- - 🌱 I’m currently learning **Data Structures and Algorithms** -->
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
-- 👨‍💻 All of my projects are available at **[My Github Profile](https://github.com/gokhalevedant06)**
+<!-- - 👨‍💻 All of my projects are available at **[My Github Profile](https://github.com/gokhalevedant06)** -->
 
 <!-- - 📫 How to reach me **gokhalevedant06@gmail.com** -->
 
-- ⚡ Fun fact **I play Badminton and go to the GYM very often**
-<hr>
+<!-- - ⚡ Fun fact **I play Badminton and go to the GYM very often**
+<hr> -->
 
-## 🚀 Languages and Tools:
-<br>
+<!-- ## 🚀 Languages and Tools:
+<br> -->
 
-<p align="left"> 
+<!-- <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -45,7 +45,7 @@
     <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="45" height="45"/> </a> 
     <a href="" target="_blank"><img src="https://img.icons8.com/color/50/000000/django.png" width="45" height="45"/> </a> 
 
-</p>
+</p> -->
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
