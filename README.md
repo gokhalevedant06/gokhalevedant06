@@ -4,7 +4,7 @@
 <h3 align="center">I am a Full Stack Web Developer</h3>
 
 <p align="center" >
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://user-images.githubusercontent.com/34781875/184046905-9e8e417b-43f5-40d2-a773-22b1b3907ed6.gif" >
+    <img src="https://user-images.githubusercontent.com/34781875/184046905-9e8e417b-43f5-40d2-a773-22b1b3907ed6.gif" >
 </p>
 
 <hr>
